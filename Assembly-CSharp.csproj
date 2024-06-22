@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{7CA597AC-799E-2D81-E8A0-0EA9A568434E}</ProjectGuid>
+    <ProjectGuid>{5DEE633A-BE1D-A0B8-D842-E468A07381BA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,7 +60,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.31f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scriptes\Player\PlayerJump.cs" />
+    <Compile Include="Assets\Scriptes\EnemySpider.cs" />
+    <Compile Include="Assets\Scriptes\ружье\GunMove.cs" />
     <Compile Include="Assets\Scriptes\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\Scriptes\ружье\ShootDrob.cs" />
     <Compile Include="Assets\Scriptes\Player\CameraMove.cs" />
   </ItemGroup>
   <ItemGroup>
