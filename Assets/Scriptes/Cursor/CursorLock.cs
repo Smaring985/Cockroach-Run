@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class CursorLock : MonoBehaviour
 {
-    [SerializeField] GameObject panelYuDead;
-    [SerializeField] GameObject panelPause;
+    [SerializeField] GameObject _panelYuDead;
+    [SerializeField] GameObject _panelPause;
 
     void Start()
     {
@@ -14,7 +14,7 @@ public class CursorLock : MonoBehaviour
 
     private void Update()
     {
-        if (panelYuDead || panelPause)
+        if (_panelYuDead.activeSelf || _panelPause.activeSelf)
         {
             Cursor.lockState = CursorLockMode.Confined;
         }
@@ -23,6 +23,6 @@ public class CursorLock : MonoBehaviour
             Cursor.lockState = CursorLockMode.Locked;
         }
     }
-
+   
 
 }

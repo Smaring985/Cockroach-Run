@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class PlayerHP : MonoBehaviour
 {
-    [SerializeField] float m_helth = 5;
+    [SerializeField] float _health = 5;
     [SerializeField] GameObject panelYouDead;
     public void GetDamage(float damage)
     {
-        m_helth -= damage;
+        _health -= damage;
 
-        if (m_helth <= 0)
+        if (_health <= 0)
         {
             panelYouDead.SetActive(true);
             //Destroy(gameObject);

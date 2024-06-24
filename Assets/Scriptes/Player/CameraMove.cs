@@ -6,8 +6,9 @@ using UnityEngine;
 public class CameraMove : MonoBehaviour
 {
 
-    [SerializeField] float _speedCamera;
-    [SerializeField] float xRotation;
+    public float _speedCamera;
+
+    [SerializeField] float xRotation; 
 
     [SerializeField]  Transform _player;
 
