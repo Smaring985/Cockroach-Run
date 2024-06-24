@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CursorLock : MonoBehaviour
 {
-    [SerializeField] GameObject _panelYuDead;
+    [SerializeField] GameObject _panelYouDead;
     [SerializeField] GameObject _panelPause;
 
     void Start()
@@ -14,7 +14,7 @@ public class CursorLock : MonoBehaviour
 
     private void Update()
     {
-        if (_panelYuDead.activeSelf || _panelPause.activeSelf)
+        if (_panelYouDead.activeSelf || _panelPause.activeSelf)
         {
             Cursor.lockState = CursorLockMode.Confined;
         }

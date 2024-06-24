@@ -23,7 +23,6 @@ public class EnemySpider : MonoBehaviour
     private Vector3 _target;
     private bool _canShoot = true;
 
-    [SerializeField] PlayerHP _playerhp;
     [SerializeField] float _damageForPlayer;
 
 
@@ -49,7 +48,7 @@ public class EnemySpider : MonoBehaviour
                                                m_startWebSpeed).OnComplete(() => 
                                                { 
                                                    Move();
-                                                   _playerhp.GetDamage(_damageForPlayer);
+                                                   PlayerHP.instance.GetDamage(_damageForPlayer);
 
 
                                                 });

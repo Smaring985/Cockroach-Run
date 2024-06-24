@@ -27,13 +27,12 @@ public class PlayerAttack : MonoBehaviour
         RaycastHit hit;
 
 
-        _aim = Physics.Raycast(_rayAim, out hit);
+        _aim = Physics.Raycast(_rayAim, out hit, _distanceRay, _enemyMask);
 
         if (_aim && Input.GetMouseButtonDown(0) && hit.collider.gameObject.TryGetComponent(out IDamagable enemy))
         {
             enemy.GetDamage(_damageForEnemy);
-            _rebound
-                = true;
+            _rebound = true;
             StartCoroutine(nameof(_reboundReload));
         }
 
@@ -45,8 +44,8 @@ public class PlayerAttack : MonoBehaviour
 
     private void Rebound()
     {
-        _direction = new Vector3(0,0, -_speedRebound);
-       _characterController.Move(_direction * _speedRebound * Time.deltaTime);
+        _direction = transform.forward;
+        _characterController.Move(_direction * _speedRebound * Time.deltaTime);
         
     }
 
