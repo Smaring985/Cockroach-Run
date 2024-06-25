@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\enemy\\enemyspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\enemy\\enemyspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|c:\\users\\0\\desktop\\unity projects\\cockroach-run\\assets\\scriptes\\cursor\\cursorlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\cursor\\cursorlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\player\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\player\\playerhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\player\\damage\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\player\\damage\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\enemy\\enemywoodlouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\enemy\\enemywoodlouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\player\\damage\\playerdamagewoodlice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\player\\damage\\playerdamagewoodlice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\player\\damage\\playerdamagespider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\player\\damage\\playerdamagespider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\gameplay\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\gameplay\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\ui menu\\buttonmanagerformenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\ui menu\\buttonmanagerformenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\interface\\idamagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\interface\\idamagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\player\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\player\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\assets\\scriptes\\player\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEE633A-BE1D-A0B8-D842-E468A07381BA}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptes\\player\\playerjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\0\\desktop\\unity projects\\cockroach-run\\assets\\scriptes\\imagepomidorhpregul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scriptes\\imagepomidorhpregul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImagePomidorHpRegul.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\ImagePomidorHpRegul.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\ImagePomidorHpRegul.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\ImagePomidorHpRegul.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\ImagePomidorHpRegul.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:22:31.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerDamageWoodlice.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\Damage\\PlayerDamageWoodlice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Player\\Damage\\PlayerDamageWoodlice.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\Damage\\PlayerDamageWoodlice.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Player\\Damage\\PlayerDamageWoodlice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:35:27.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerHP.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\PlayerHP.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Player\\PlayerHP.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\PlayerHP.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Player\\PlayerHP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:30:19.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyWoodlouse.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Enemy\\EnemyWoodlouse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Enemy\\EnemyWoodlouse.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Enemy\\EnemyWoodlouse.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Enemy\\EnemyWoodlouse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:32:53.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NextLevel.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Gameplay\\NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Gameplay\\NextLevel.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Gameplay\\NextLevel.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Gameplay\\NextLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:40:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ButtonManagerForMenu.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\UI menu\\ButtonManagerForMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\UI menu\\ButtonManagerForMenu.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\UI menu\\ButtonManagerForMenu.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\UI menu\\ButtonManagerForMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:11:16.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraMove.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\CameraMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Player\\CameraMove.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\CameraMove.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Player\\CameraMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:15:47.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpider.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Enemy\\EnemySpider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Enemy\\EnemySpider.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Enemy\\EnemySpider.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Enemy\\EnemySpider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:23:03.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\Damage\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Player\\Damage\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\Damage\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Player\\Damage\\PlayerAttack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:46:40.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerDamageSpider.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\Damage\\PlayerDamageSpider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Player\\Damage\\PlayerDamageSpider.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\Damage\\PlayerDamageSpider.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Player\\Damage\\PlayerDamageSpider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:46:04.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDamagable.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Interface\\IDamagable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Interface\\IDamagable.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Interface\\IDamagable.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Interface\\IDamagable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:36:14.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CursorLock.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Cursor\\CursorLock.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Cursor\\CursorLock.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Cursor\\CursorLock.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Cursor\\CursorLock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:01:49.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:11:36.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerJump.cs",
+              "DocumentMoniker": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\PlayerJump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scriptes\\Player\\PlayerJump.cs",
+              "ToolTip": "C:\\Users\\0\\Desktop\\Unity Projects\\Cockroach-Run\\Assets\\Scriptes\\Player\\PlayerJump.cs",
+              "RelativeToolTip": "Assets\\Scriptes\\Player\\PlayerJump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:07:34.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
