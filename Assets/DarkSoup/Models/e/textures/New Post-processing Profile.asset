@@ -1,6 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< Updated upstream
 --- !u!114 &-8874067344861130635
+=======
+--- !u!114 &-7996025694736473103
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9,6 +13,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: b94fcd11afffcb142908bfcb1e261fba, type: 3}
   m_Name: MotionBlur
   m_EditorClassIdentifier: 
@@ -120,6 +125,36 @@ MonoBehaviour:
   lumContrib:
     overrideState: 1
     value: 0
+=======
+  m_Script: {fileID: 11500000, guid: b3f6f3f7c722b4544b97e3c75840aa33, type: 3}
+  m_Name: AutoExposure
+  m_EditorClassIdentifier: 
+  active: 0
+  enabled:
+    overrideState: 1
+    value: 1
+  filtering:
+    overrideState: 1
+    value: {x: 50, y: 95}
+  minLuminance:
+    overrideState: 1
+    value: 0
+  maxLuminance:
+    overrideState: 1
+    value: 0
+  keyValue:
+    overrideState: 1
+    value: 1
+  eyeAdaptation:
+    overrideState: 1
+    value: 0
+  speedUp:
+    overrideState: 1
+    value: 2
+  speedDown:
+    overrideState: 1
+    value: 1
+>>>>>>> Stashed changes
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -134,12 +169,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   settings:
   - {fileID: 4417473457835745763}
+<<<<<<< Updated upstream
   - {fileID: 6655232179949921292}
   - {fileID: -4710754162550395421}
   - {fileID: -6235212353130392009}
   - {fileID: -8874067344861130635}
   - {fileID: -2087215382884907158}
   - {fileID: 8374908541352101786}
+=======
+  - {fileID: -7996025694736473103}
+  - {fileID: 6655232179949921292}
+>>>>>>> Stashed changes
 --- !u!114 &4417473457835745763
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -152,18 +192,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b77c5407dc277943b591ade9e6b18c5, type: 3}
   m_Name: LensDistortion
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
   active: 1
+=======
+  active: 0
+>>>>>>> Stashed changes
   enabled:
     overrideState: 1
     value: 1
   intensity:
     overrideState: 1
+<<<<<<< Updated upstream
     value: -58.5
   intensityX:
     overrideState: 1
     value: 0
   intensityY:
     overrideState: 1
+=======
+    value: -23.4
+  intensityX:
+    overrideState: 0
+    value: 1
+  intensityY:
+    overrideState: 0
+>>>>>>> Stashed changes
     value: 1
   centerX:
     overrideState: 0
@@ -173,7 +226,11 @@ MonoBehaviour:
     value: 0
   scale:
     overrideState: 1
+<<<<<<< Updated upstream
     value: 1
+=======
+    value: 2.21
+>>>>>>> Stashed changes
 --- !u!114 &6655232179949921292
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -192,7 +249,11 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
+<<<<<<< Updated upstream
     value: 0.06
+=======
+    value: 1.69
+>>>>>>> Stashed changes
   threshold:
     overrideState: 0
     value: 1
@@ -221,6 +282,7 @@ MonoBehaviour:
   dirtIntensity:
     overrideState: 0
     value: 0
+<<<<<<< Updated upstream
 --- !u!114 &8374908541352101786
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -270,3 +332,5 @@ MonoBehaviour:
   quality:
     overrideState: 0
     value: 2
+=======
+>>>>>>> Stashed changes
